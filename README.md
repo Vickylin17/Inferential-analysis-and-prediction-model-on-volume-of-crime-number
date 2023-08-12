@@ -1,1 +1,1 @@
-# STAT-301-GROUP-
+Prediction model
